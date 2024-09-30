@@ -16,4 +16,4 @@ Yukarıda belirtilen adımları izleyerek gerekli tüm paketleri ve Tesseract OC
 
 Bu yaklaşım, kapalı devre bir ortamda çalışmanıza olanak tanır. Ancak, bazı paketlerin (özellikle easyocr ve paddleocr) ek model dosyaları indirebileceğini unutmayın. Bu dosyaları da önceden indirip uygun konumlara yerleştirmeniz gerekebilir.
 
-Reference : HuggingFace OCR
+Reference : [HuggingFace OCR](https://huggingface.co/)
